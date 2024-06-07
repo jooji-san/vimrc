@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.copilot",
+    "lazyvim.plugins.extras.lang.omnisharp"
+  ],
+  "news": {
+    "NEWS.md": "5204"
+  },
+  "version": 6
+}
